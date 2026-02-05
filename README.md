@@ -407,7 +407,7 @@
     // ========= إعدادات واتساب =========
     // ضع رقمك بصيغة دولية بدون + وبدون مسافات
     // مثال المغرب: 2126XXXXXXXX
-    const WHATSAPP_NUMBER = "0701076318"; // <-- غيّر الرقم هنا
+    const WHATSAPP_NUMBER = "0768872782"; // <-- غيّر الرقم هنا
 
     const defaultMessage =
       "سلام! بغيت نطلب Smart Habit Tracker (Excel/Google Sheets). واش متوفر دابا؟";
